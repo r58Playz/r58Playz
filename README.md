@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+ - [Voxel Engine](https://github.com/r58Playz/VoxelEngine)
+
+🌱 I’m currently learning:
+ - C++
+ - OpenGL
+
+
 <!--
 **r58Playz/r58Playz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
