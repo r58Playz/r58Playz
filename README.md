@@ -3,6 +3,8 @@
 
 [![r58Playz's GitHub stats](https://github-readme-stats.vercel.app/api?username=r58Playz&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r58Playz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🔭 I’m currently working on:
  - Voxel Engine - private
