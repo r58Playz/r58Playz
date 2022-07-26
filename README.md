@@ -6,8 +6,8 @@
  - Voxel Engine - private
 
 🌱 I’m currently learning:
- - C++
- - OpenGL
+ - Swift
+ - Metal
 
 
 <!--
